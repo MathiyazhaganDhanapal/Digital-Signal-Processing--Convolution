@@ -6,7 +6,7 @@ To perform linear convolution using MAT LAB.
 
 ## Software Required:
 
-MAT LAB R2012
+MAT LAB R2023a
 
 ## Algorithm:
 
@@ -77,4 +77,5 @@ title('linear convolution');
 
 ## RESULT:
 
-The linear Convolution of signal is {6,-11,17.5,4,-0.21,**22.9**,35.05,-18.5,60.5,36.9,13.5,7,6,-3}
+![WhatsApp Image 2026-03-30 at 2 21 22 PM](https://github.com/user-attachments/assets/0e748468-4822-4c5d-b870-0003d21cd070)
+
